@@ -7,7 +7,7 @@
 
 ## About
 
-This applications is an personal finance manager.
+This is a personal finance manager application .
 
 ## Screenshots
 
@@ -25,8 +25,8 @@ This applications is an personal finance manager.
 ## Features
 
 - Table with personal finance data with name, amount, category and date.
-- Summary cards with incomes, outcomes and total.
-- Button that Create a new transaction using a beautiful modal.
+- Summary cards with incomes, outcomes and balance.
+- New transaction modal.
 
 ## Technologies
 
@@ -41,7 +41,7 @@ The following tools were used in this project:
 
 ## Requirements
 
-Before starting 🏁, you need to have [Git](https://git-scm.com) and [Node](https://nodejs.org/en/) installed.
+Before starting 🚀, you need to have [Git](https://git-scm.com) and [Node](https://nodejs.org/en/) installed.
 
 ## Starting
 
@@ -65,7 +65,7 @@ $ yarn start
 
 This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
 
-Made with 💜 by <a href="https://github.com/davi1985" target="_blank">Davi Silva</a>
+Made with 💜 by <a href="https://github.com/Bru-marques/" target="_blank">Bruna Marques</a>
 
 &#xa0;
 
