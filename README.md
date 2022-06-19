@@ -7,7 +7,7 @@
 
 ## About
 
-This is a personal finance manager application .
+This is a personal finance manager application using MirageJS as an API mocking library .
 
 ## Screenshots
 
@@ -37,7 +37,7 @@ The following tools were used in this project:
 - [MirageJS](https://miragejs.com/)
 - [Polished](https://polished.js.org/)
 - [Axios](https://github.com/axios/axios)
-- [Styled Componensts](https://styled-components.com/)
+- [Styled Components](https://styled-components.com/)
 
 ## Requirements
 
