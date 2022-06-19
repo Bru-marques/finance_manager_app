@@ -1,5 +1,6 @@
-<div align="center" id="top"> 
-  <img src="./src/assets/logo.svg" alt="02 Dtmoney" />
+ # dt money
+<div align="center" display="flex id="top">            
+  <img src="./src/assets/finance2.png" alt="02 Dtmoney" /> 
 </div>
 
 <hr/>
@@ -12,14 +13,18 @@ This is a personal finance manager application using MirageJS as an API mocking 
 ## Screenshots
 
 <div align="center" id="top"> 
-  <!-- <img src="./src/assets/screen2.png" alt="02 Dtmoney" /> -->
-  WIP
+  <img src="./src/assets/financeApp.png" alt="02 Dtmoney" /> 
+ 
 </div>
 <br/>
 <br/>
 <div align="center" id="top"> 
-  <!-- <img src="./src/assets/screen1.png" alt="02 Dtmoney" /> -->
-  WIP
+ <img src="./src/assets/finance2.png" alt="02 Dtmoney" /> 
+</div>
+<br/>
+<br/>
+<div align="center" id="top"> 
+ <img src="./src/assets/finance3.png" alt="02 Dtmoney" /> 
 </div>
 
 ## Features
