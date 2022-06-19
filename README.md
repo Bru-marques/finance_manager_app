@@ -52,7 +52,7 @@ Before starting 🚀, you need to have [Git](https://git-scm.com) and [Node](htt
 
 ```bash
 # Clone this project
-$ git clone https://github.com/davi1985/dtmoney
+$ git clone https://github.com/Bru-marques/finance_manager_app.git
 
 # Access
 $ cd dtmoney
